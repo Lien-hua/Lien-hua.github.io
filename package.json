@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "花花の网站",
+  "main": "docsify.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lien-hua/"
+  },
+  "author": "ZhangLihua",
+  "license": "ISC",
+  "dependencies": {
+    "node-loader": "^2.0.0",
+    "node-sass": "^7.0.1"
+  }
+}
